@@ -1,0 +1,31 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"raw",
+	    "defName":"DUMMY",
+	    "file":"resource_map.json"
+	   },
+	   {
+	    "type":"png-trans",
+	    "defName":"IMAGE_PLAYER",
+	    "file":"images/player.png"
+	   },
+           {
+            "type":"png-trans",
+            "defName":"IMAGE_PLAYER_LEFT",
+            "file":"images/left.png"
+           },
+           {
+            "type":"png-trans",
+            "defName":"IMAGE_PLAYER_JUMP",
+            "file":"images/back.png"
+           },
+	   {
+	    "type":"png-trans",
+	    "defName":"IMAGE_BLOCK",
+	    "file":"images/block.png"
+	   }
+	  ]
+}
